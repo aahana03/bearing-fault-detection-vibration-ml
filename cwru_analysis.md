@@ -56,7 +56,7 @@ The feature distributions show clear separation between healthy and faulty beari
 ![Accuracy Comparison](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/ee300bafb5557829b331cb7fb93246cd9ce8d870/image.png)
 
 ### Confusion Matrix and other metrics of the best performing model
-![Tuned SVC](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/253ee86d7f58e76067ed69a5966e879f15ec167a/SVC_test.png)
+![Tuned SVC](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/cd7fa53fb35d85a1d090ec03a80d89be07e732bd/SVC_Train.png)
 ![Tuned SVC](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/32381bb0a225d169b58fa232169e103032099548/image.png)
 
 ## Conclusion
