@@ -62,3 +62,6 @@ The feature distributions show clear separation between healthy and faulty beari
 ## Conclusion
 
 Margin-based classifiers like Support Vector Classification perform well on structured benchmark datasets. However, such experiments are conducted under controlled conditions and they do not fully represent real-world operating conditions. Model performance on real industrial data with distributed damage and excess noise may be lower.
+
+## Reference
+(https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets)
