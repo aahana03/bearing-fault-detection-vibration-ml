@@ -39,6 +39,7 @@ Raw Signal → Multi-Axis Feature Extraction → Resultant Features → Scaling 
 ---
 
 ## Future Work
+- Multi-class classification of experimental data.
 - Improved sensor mounting and vibration isolation.  
 - Exploration of composite materials with reduced transmissibility.
 
