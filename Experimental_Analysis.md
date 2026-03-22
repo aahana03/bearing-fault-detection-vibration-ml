@@ -44,7 +44,7 @@ Raw acceleration data was recorded using accelerometer and micrcontroller and th
 
 ---
 
-## 📊 Feature Analysis
+## Feature Analysis
 
 ### RMS Variation Across Sessions
 ![RMS Plot](graphs/rms_sessions.png)
@@ -67,7 +67,7 @@ Spectral features exhibit significant variation across sessions, highlighting se
 
 ---
 
-## 🧠 Model Development
+## Model Development
 
 Binary classification was performed:
 - Healthy  
