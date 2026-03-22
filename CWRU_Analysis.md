@@ -8,7 +8,7 @@ This dataset consists of vibration signals recorded under controlled laboratory 
 
 ## Objective
 - To study how frequencies vary for faulty vs. healthy data 
-- Whether a machine learning model performs as expected for benchmark datasets. 
+- Whether a machine learning model can clearly differentiate between healthy and faulty data. 
 
 ---
 
