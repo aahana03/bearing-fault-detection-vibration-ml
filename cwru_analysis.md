@@ -58,6 +58,8 @@ The feature distributions show clear separation between healthy and faulty beari
 ### Confusion Matrix and other metrics of the best performing model
 ![Tuned SVC](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/32381bb0a225d169b58fa232169e103032099548/image.png)
 
+![Tuned SVC](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/32381bb0a225d169b58fa232169e103032099548/image.png)
+
 ## Conclusion
 
 Margin-based classifiers like Support Vector Classification perform well on structured benchmark datasets. However, such experiments are conducted under controlled conditions and they do not fully represent real-world operating conditions. Model performance on real industrial data with distributed damage and excess noise may be lower.
