@@ -44,7 +44,7 @@ Multiple machine learning models were evaluated.
 ## Feature Analysis
 
 ### RMS Feature Distribution
-![RMS Feature Plot]([(https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/edb1f7ce6f11f564908c07b62931ac5ce992be52/time_rms.png))])
+![RMS Feature Plot](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/edb1f7ce6f11f564908c07b62931ac5ce992be52/time_rms.png)
 
 The feature distributions show clear separation between healthy and faulty bearing conditions, indicating that the dataset is well-suited for classification tasks.
 
