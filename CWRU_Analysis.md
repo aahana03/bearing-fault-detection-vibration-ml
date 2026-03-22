@@ -50,7 +50,7 @@ The feature distributions show clear separation between healthy and faulty beari
 
 ## Results
 
-**Test Accuracy: ~93%**
+**Test Accuracy: ~93.35% test accuracy**
 
 ### Table comparing accuracies for different ML models
 ![Accuracy Comparison](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/ee300bafb5557829b331cb7fb93246cd9ce8d870/image.png)
