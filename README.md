@@ -1,7 +1,7 @@
 # Bearing Fault Detection using Vibration Analysis and Machine Learning
 
 ## Overview
-This project focuses on developing a supervised machine learning model to detect faults in rolling-element bearing using vibration signal analysis under both benchmark and real experimental conditions.
+This project focuses on developing a supervised machine learning model to detect faults in rolling-element bearings using vibration signal analysis under both benchmark and real experimental conditions.
 
 The study is carried out in two stages:
 1. Benchmark analysis using the Case Western Reserve University Bearing Dataset.  
