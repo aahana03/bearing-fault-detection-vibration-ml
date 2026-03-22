@@ -40,7 +40,7 @@ Raw Signal → Multi-Axis Feature Extraction → Resultant Features → Scaling 
 
 ## Future Work
 - Improved sensor mounting and vibration isolation.  
-- Exploration of damping materials.
+- Exploration of composite materials with reduced transmissibility.
 
 ---
 
