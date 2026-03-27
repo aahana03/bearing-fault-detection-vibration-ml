@@ -54,9 +54,16 @@ RMS values indicate higher vibration energy for faulty bearings, but also show v
 ---
 
 ### Spectral Entropy Variation
-![Entropy Plot](graphs/entropy_sessions.png)
+![Entropy Plot](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/6dfb2415b38207816e73269709e7435995e2ed85/Spectral%20Entropy%20Variation%20across%20sessions.png)
 
 Spectral features exhibit significant variation across sessions, highlighting sensitivity to experimental conditions.
+
+---
+
+### Kurtosis Variation
+![Entropy Plot](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/6dfb2415b38207816e73269709e7435995e2ed85/Spectral%20Entropy%20Variation%20across%20sessions.png)
+
+Distributed wear was introduced as faults on the bearing surfaces. Thus, kurtosis analysis didn't show a peak in signals.
 
 ---
 
