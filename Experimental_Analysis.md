@@ -47,7 +47,7 @@ Raw acceleration data was recorded using accelerometer and micrcontroller and th
 ## Feature Analysis
 
 ### RMS Variation Across Sessions
-![RMS Plot](graphs/rms_sessions.png)
+![RMS Plot](https://github.com/aahana03/bearing-fault-detection-vibration-ml/blob/e7351113712cded2788f0d7528cdd6f1d5f4f5c7/RMS%20Variation%20across%20sessions.png)
 
 RMS values indicate higher vibration energy for faulty bearings, but also show variation across sessions.
 
