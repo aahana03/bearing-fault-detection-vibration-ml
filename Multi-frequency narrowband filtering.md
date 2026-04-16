@@ -1,0 +1,35 @@
+# Analysis of Narrowband Filtering for Non-Impulsive Bearing Fault Detection
+
+## Overview
+This project investigates the behavior of frequency-shifting narrowband filtering when applied to non-impulsive bearing faults, specifically distributed wear. Narrowband filtering is traditionally used for detecting localized faults that generate impulsive vibration signatures. However, distributed wear does not produce such impulses and instead manifests as broadband spectral energy variations.
+
+Preliminary experiments conducted in this work show that the method is still able to distinguish faulty conditions from healthy ones, even in the absence of impulsive features. This project aims to explore the underlying reasons behind this behavior.
+
+---
+
+## Methodology
+The following steps were carried out:
+- Implementation of frequency-shifting narrowband filtering across multiple frequency bands
+- Extraction of filtered vibration signals
+- Computation of spectral mean & spectral variance for all 4 classes of bearings
+- Comparative analysis of feature behaviour across healthy and faulty conditions
+
+---
+
+## Key Observations
+
+- Fault classes remain distinguishable from healthy conditions despite the absence of impulsive signatures
+- Structural resonance components persist in the vibration signal even after applying narrowband filtering
+- Resonance amplitudes appear attenuated under faulty conditions rather than amplified
+
+
+---
+
+## Future Work
+- Necessity of narrowband filtering for non-impulsive fault detection and detection of the physical property that enables fault discrimination in the absence of impulsive signatures
+- The role of the persistent structural resonance signal in fault classification
+- Effect of removal of resonance components on quality of fault signal obtained afterwards.
+
+---
+## Reference(s):
+Pankaj Chauhan & Sachin Kumar Singh (26 Nov 2024): A multifrequency approach for the fault identification of bearings and gears based on frequency shifting and narrowband filtering, Nondestructive Testing and Evaluation, DOI: 10.1080/10589759.2024.2433034
